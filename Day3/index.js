@@ -176,15 +176,15 @@
 // };
 // console.log(obj);
 
-const obj= {
-    1:'one',
-    'name': 'Dhruv',
-    12: 'twelve',
-};
-console.log(obj);
+// const obj= {
+//     1:'one',
+//     'name': 'Dhruv',
+//     12: 'twelve',
+// };
+// console.log(obj);
 
-const x=prompt('pleaase enter the property');
-console.log(x);
+// const x=prompt('pleaase enter the property');
+// console.log(x);
 
 
 

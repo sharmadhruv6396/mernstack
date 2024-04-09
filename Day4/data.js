@@ -21,16 +21,6 @@
 //     e.target.style.color='blue';
 
 // }
-function submitForm(e){
-    e.preventdefaullt();
-    // console.dir(e.target.value)
-    const t=e.target
-    for(let i=0;i<t.length;i++){
-        console.log(t[i],value);
-        console.log(t[i].value);
-        if(ty=='checkbox'){
-            console.log(t[i].checked)
-        }
-    }
+
     
 }
